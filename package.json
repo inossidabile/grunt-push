@@ -1,0 +1,39 @@
+{
+  "name": "grunt-push",
+  "description": "The best Grunt plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/inossidabile/grunt-push",
+  "author": {
+    "name": "Boris Staal",
+    "email": "boris@staal.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/inossidabile/grunt-push.git"
+  },
+  "bugs": {
+    "url": "https://github.com/inossidabile/grunt-push/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/inossidabile/grunt-push/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-release": "~0.6.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "gift": "~0.1.1"
+  }
+}
